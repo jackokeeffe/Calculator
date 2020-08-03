@@ -4,7 +4,7 @@
 # How To Use:
 # change x and y variables from 3,3 desired numbers
 # delete '#' before print statement that coresponds to changes variable
-# ----------------------------------------------------------------------
+# ---------------
 # ex. to add 4 and 6:
 # 1. change a = add(3,3) to a = add(4,6)
 # 2. delete the '#' before print(a) - making statement live 
